@@ -1,0 +1,1383 @@
+msg,goodpractices
+Add initial structure,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile!,0
+Update jenkinsfile,0
+Update jenkinsfile,0
+Merge branch 'master' of github.com:MISW4403-Diseno-y-construccion-de-APIs/202214_BaseProject,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update jenkinsfile,0
+[ci-skip] GitInspector report added,0
+Update main.ts,0
+Update dependencies,0
+Fix dependencies,0
+Update Jenkinsfile,0
+Update sonar-project.properties,0
+Update Jenkinsfile,0
+Update Jenkinsfile,0
+Update README.md,0
+Initial commit,0
+Initial commit,0
+Initial commit,0
+Initial commit,0
+Initial commit,0
+Initial commit,0
+Initial commit,0
+Updated Jenkins file,0
+Error CR [prettier/prettier] solved,0
+primeros modulos - falta revisar ventas y compras (dudas),0
+Conecction successful - avance en entities pero faltan bastante detallitos,0
+basic services for user done,0
+user and product services and dto finished,0
+Controllers para user y product listos,0
+Correcion errores - pruebas en postman de crud user y product correctas,0
+Shopping cart implementado,0
+Correciones y comment module terminado,0
+creacion relaciones,0
+"Relaciones user-product y user-comment finalizadas, falta testear en postman",0
+correciones modulos y user-shopping-cart completado - faltan pruebas en postman para comprobar todo,0
+Correciones de errores con products pero ya todo re bien,0
+Correcion relaciones ManyToMany y OneToOne - falta corregirles de los servicios para arriba,0
+nuevas relaciones - faltan completar y hacer pruebas de funcionamiento con postman,0
+Correciones y product-comment finalizado - falta shoppcartPro para empezar a realizar mas pruebas,0
+Shopping-cart-product finalizda - faltan pruebas para hacer mejoras,0
+Configuracion auth pero faltan muchas restricciones y pruebas por configurar,0
+Se esta adelantando la parte de auth y los guards pero falta probar resto eso,0
+Cambios image product y falta cambiar usuario para sus roles,0
+Mini cambio para datos de connección a la bd,0
+Formato para inserción de datos y mini correción,0
+Probando consultas en back y añadiendo servicios image,0
+Las pruebas unitarias en servicios estan dando resto de errores,0
+Controlador permite filtrar pero falta pensar merjor la paginación,0
+Finalizacion asociacion image con product - revisar TODOs,0
+Auth debería estar funcionando - faltan pruebas y conectar al front,0
+"habia un error re loco, pero ya corregido y auth funcionando",0
+estuve probando cosas para ver el error de circular dependecy mejor y efectivamente esta complicado,0
+ya solucionado lo de las pruebas pero ahora faltan pruebas con más detalle,0
+Ya las pruebas base de todas las relaciones funcionan - falta hacerlas mas robustas,0
+tests para usuario listos y aprobados,0
+Creacion persistencia Favorite,0
+Service favorite,0
+Pruebas Logica Favorite,0
+Controller DTO y Postman Listo Favorite,0
+Creacion asociacion favorite-product,0
+Prueba asociacion favorite-product,0
+Controlador favorito Product y Postman,0
+Update favorite-product.service.ts,0
+Asociacion Favorite-user con controlador servicio y pruebas postman,0
+mas pruebitas van quedando bien,0
+"por parte de usuario todo bien, falta producto",0
+sellProduct Persistencia,0
+Service y Pruebas Service de SellProduct,0
+Controller DTO y Pruebas Postamn SellProduct Listo,0
+Asociacion SellProduct User- Service,0
+Controller Y Postman asociacion Listo,0
+ya las pruebas re bien,0
+todo funciona bien,0
+todo bien,0
+SellProduct- Product Asociacion,0
+Controlerr y postman asociacion Product sellproduct,0
+implementacion address y address-user,0
+Merge remote-tracking branch 'origin/Dev' into David,0
+Mas pruebas,0
+Mi parte final,0
+c,0
+Create SmarTech.postman_collection.json,0
+Merge branch 'Dev' of https://github.com/isis3710-uniandes/ISIS3710_202320_S2_E08_Back into Dev,0
+Merge branch 'master' of https://github.com/isis3710-uniandes/ISIS3710_202320_S2_E08_Back,0
+Versión final,0
+Conexion Front y arreglos de unos cpontroller,0
+Cositas,0
+Merge branch 'Felipe-Rueda' of https://github.com/isis3710-uniandes/ISIS3710_202320_S2_E08_Back into Dev,0
+Merge branch 'Dev' of https://github.com/isis3710-uniandes/ISIS3710_202320_S2_E08_Back into Dev,0
+Merge branch 'Dev' of https://github.com/isis3710-uniandes/ISIS3710_202320_S2_E08_Back,0
+Initial commit,1
+project started,1
+fixing gitignore before splitting branches,1
+gradient background,1
+Hotfix and MVVM creation,1
+fixing gitignore,1
+NavBar created,1
+"Feature/event creation view #2 (#4)
+
+* Creation of Event Creation Fragment and its viewmodel
+
+* Creation of Event Creation Fragment
+
+* View finished, waiting for logo to fix the header",1
+SignUp Fragment created,1
+sign up form created and resources updated,1
+home page (#9),1
+Sign up form created,1
+Merge branch 'develop' into feature/signup-view-#5,1
+Merge pull request #10 from ISIS3510-202320-Team31/feature/signup-view-#5,1
+Fixing general errors,1
+Merge branch 'develop' of https://github.com/ISIS3510-202320-Team31/Android-Kotlin into develop,1
+Main view updated,1
+"Implementacion vista Calendar (#11)
+
+Días dinámicos (Cambia dependiendo de la fecha del dispositivo a 30 días)",1
+event detail ver1 (#12),1
+"Feature/user profile view #8 (#14)
+
+* profile fragment updated
+
+* finished view",1
+directory fix,1
+hot fix sign up view,1
+"Login View Implementation (#15)
+
++ First view arise with LoginView
++ Navegation between sign in and sign up",1
+"Feature/implement event list #16 (#17)
+
+* Models and Api interface created
+
+* implement view and back created
+
+* event detail implemented
+
+* loading added",1
+"Feature/home view #1 (#20)
+
+* home page
+
+* fixing home and event detail",1
+added spinner array to select and margins fixed,1
+QR Scanner (#22),1
+add title and fix spinner,1
+title updated,1
+Merge branch 'develop' into hotfix/fix-calendar-view-#21,1
+"Feature/register new user #23 (#25)
+
+* Added endpoint and registering working
+
+* logging in implemented
+
+* login implemented
+
+* Login implemented",1
+"Feature/register new user #23 (#30)
+
+* Added endpoint and registering working
+
+* logging in implemented
+
+* login implemented
+
+* Login implemented
+
+* fixed home view",1
+"Feature/generate qr code #24 (#31)
+
+* QR Generator and avance de unirse a un evento
+
+* changes in the endpoints
+
+* join buttons implemented
+
+---------
+
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>",1
+"Hotfix/calendar view fix #13 (#33)
+
+* gradient background
+
+* Hotfix and MVVM creation
+
+* fixing gitignore
+
+* NavBar created
+
+* Feature/event creation view #2 (#4)
+
+* Creation of Event Creation Fragment and its viewmodel
+
+* Creation of Event Creation Fragment
+
+* View finished, waiting for logo to fix the header
+
+* SignUp Fragment created
+
+* sign up form created and resources updated
+
+* home page (#9)
+
+* Sign up form created
+
+* Fixing general errors
+
+* Main view updated
+
+* Implementacion vista Calendar (#11)
+
+Días dinámicos (Cambia dependiendo de la fecha del dispositivo a 30 días)
+
+* event detail ver1 (#12)
+
+* Feature/user profile view #8 (#14)
+
+* profile fragment updated
+
+* finished view
+
+* directory fix
+
+* hot fix sign up view
+
+* Login View Implementation (#15)
+
++ First view arise with LoginView
++ Navegation between sign in and sign up
+
+* Feature/implement event list #16 (#17)
+
+* Models and Api interface created
+
+* implement view and back created
+
+* event detail implemented
+
+* loading added
+
+* Feature/home view #1 (#20)
+
+* home page
+
+* fixing home and event detail
+
+* added spinner array to select and margins fixed
+
+* QR Scanner (#22)
+
+* add title and fix spinner
+
+* title updated
+
+* Feature/register new user #23 (#25)
+
+* Added endpoint and registering working
+
+* logging in implemented
+
+* login implemented
+
+* Login implemented
+
+* CalendarView modification
+
+* Changes in the backend request (an specific user and date)
+
+* order/future (backend endpoint) to have list of events before now (historical) or after (active events - activities)
+
+* Add bottons to change into views of activities and historical
+
+* Feature/register new user #23 (#30)
+
+* Added endpoint and registering working
+
+* logging in implemented
+
+* login implemented
+
+* Login implemented
+
+* fixed home view
+
+* Feature/generate qr code #24 (#31)
+
+* QR Generator and avance de unirse a un evento
+
+* changes in the endpoints
+
+* join buttons implemented
+
+---------
+
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>
+
+* Dynamic color buttons
+
+* Change the color of the activities and historical button depends on the view shown
+
+* Get event detail from calendar view
+
+---------
+
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>
+Co-authored-by: Daniel Aguilera <d.aguilera@uniandes.edu.co>
+Co-authored-by: lmartinezp2003 <69610928+lmartinezp2003@users.noreply.github.com>",1
+"Revert ""Hotfix/calendar view fix #13 (#33)""
+
+This reverts commit c8f21a1b9fa6921b0d12f4495abeffd86d1a062a.",1
+"Hotfix/calendar view fix #13 (#34)
+
+* CalendarView modification
+
+* Changes in the backend request (an specific user and date)
+
+* order/future (backend endpoint) to have list of events before now (historical) or after (active events - activities)
+
+* Add bottons to change into views of activities and historical
+
+* Dynamic color buttons
+
+* Change the color of the activities and historical button depends on the view shown
+
+* Get event detail from calendar view",1
+"Feature/implement context aware #32 (#35)
+
+* smart feature implemented
+
+* fix permission manager",1
+fix piccasso image setting,1
+"Feature/create event #27 (#37)
+
+* Avance Create Event :(
+
+* Create Event",1
+"Feature/integrate firebase hive #38 (#39)
+
+* added crashlytics and analytics integration
+
+* firebase integration done",1
+"Hotfix/provide field logic #40 (#41)
+
+* Limitations on the fields changed
+
+* fixed visual stuff",1
+"Feature/user profile logic #36 (#42)
+
+* Add time tracker feature
+
+* Fix time tracker and user participation feature
+
+* User participation feature: Number of events by user
+
+* user name email and time spent format
+
+* Feature show the user name and email.
+*Change time spent format to take into account the numbers below 10 -> (Ex. 1:2 hours -> 01:02 hours)",1
+"Fix time date format
+
+* Problems with conditional fixed",1
+"Main - Develop #1 (#43)
+
+* gradient background
+
+* Hotfix and MVVM creation
+
+* fixing gitignore
+
+* NavBar created
+
+* Feature/event creation view #2 (#4)
+
+* Creation of Event Creation Fragment and its viewmodel
+
+* Creation of Event Creation Fragment
+
+* View finished, waiting for logo to fix the header
+
+* SignUp Fragment created
+
+* sign up form created and resources updated
+
+* home page (#9)
+
+* Sign up form created
+
+* Fixing general errors
+
+* Main view updated
+
+* Implementacion vista Calendar (#11)
+
+Días dinámicos (Cambia dependiendo de la fecha del dispositivo a 30 días)
+
+* event detail ver1 (#12)
+
+* Feature/user profile view #8 (#14)
+
+* profile fragment updated
+
+* finished view
+
+* directory fix
+
+* hot fix sign up view
+
+* Login View Implementation (#15)
+
++ First view arise with LoginView
++ Navegation between sign in and sign up
+
+* Feature/implement event list #16 (#17)
+
+* Models and Api interface created
+
+* implement view and back created
+
+* event detail implemented
+
+* loading added
+
+* Feature/home view #1 (#20)
+
+* home page
+
+* fixing home and event detail
+
+* added spinner array to select and margins fixed
+
+* QR Scanner (#22)
+
+* add title and fix spinner
+
+* title updated
+
+* Feature/register new user #23 (#25)
+
+* Added endpoint and registering working
+
+* logging in implemented
+
+* login implemented
+
+* Login implemented
+
+* Feature/register new user #23 (#30)
+
+* Added endpoint and registering working
+
+* logging in implemented
+
+* login implemented
+
+* Login implemented
+
+* fixed home view
+
+* Feature/generate qr code #24 (#31)
+
+* QR Generator and avance de unirse a un evento
+
+* changes in the endpoints
+
+* join buttons implemented
+
+---------
+
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>
+
+* Hotfix/calendar view fix #13 (#34)
+
+* CalendarView modification
+
+* Changes in the backend request (an specific user and date)
+
+* order/future (backend endpoint) to have list of events before now (historical) or after (active events - activities)
+
+* Add bottons to change into views of activities and historical
+
+* Dynamic color buttons
+
+* Change the color of the activities and historical button depends on the view shown
+
+* Get event detail from calendar view
+
+* Feature/implement context aware #32 (#35)
+
+* smart feature implemented
+
+* fix permission manager
+
+* fix piccasso image setting
+
+* Feature/create event #27 (#37)
+
+* Avance Create Event :(
+
+* Create Event
+
+* Feature/integrate firebase hive #38 (#39)
+
+* added crashlytics and analytics integration
+
+* firebase integration done
+
+* Hotfix/provide field logic #40 (#41)
+
+* Limitations on the fields changed
+
+* fixed visual stuff
+
+* Feature/user profile logic #36 (#42)
+
+* Add time tracker feature
+
+* Fix time tracker and user participation feature
+
+* User participation feature: Number of events by user
+
+* user name email and time spent format
+
+* Feature show the user name and email.
+*Change time spent format to take into account the numbers below 10 -> (Ex. 1:2 hours -> 01:02 hours)
+
+* Fix time date format
+
+* Problems with conditional fixed
+
+---------
+
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>
+Co-authored-by: lmartinezp2003 <69610928+lmartinezp2003@users.noreply.github.com>
+Co-authored-by: Panis26 <74617788+Panis26@users.noreply.github.com>
+Co-authored-by: Panis26 <ca.sanchezo1@uniandes.edu.co>",1
+Validations (#52),1
+Fix repository (#53),1
+"Hotfix/fix detail event view #44 (#54)
+
+* first changes, it loads the detail when working
+
+* changed implementation. Needs to work as a normal card but it shrinks
+
+* Update HomePageFragment.kt",1
+Hotfix repository removal,1
+Update HomePageFragment.kt,1
+Update gradle.properties,1
+"Hotfix/hardcoded strings #48 (#56)
+
+* Hardcoded strings changed
+
+* Hotfix hardcoded strings
+
+---------
+
+Co-authored-by: Daniel Aguilera <d.aguilera@uniandes.edu.co>",1
+change img persona to event,1
+Profile view fixed (#58),1
+"Feature/pull refresh #51 (#60)
+
+* Swipe down to refresh implemented
+
+* Design swipe down to refresh
+
+* Changes in the progress bar
+* Funcionality implemented in profile view",1
+"Feature/create room entities #55 (#66)
+
+* Entities and database created
+
+* added context to all fragments and database created
+
+* Entities and eventual connectivity implemented
+
+* Update HomePageFragment.kt
+
+* Merge fixed
+
+* swipe to refresh fixed eventual connectivity",1
+Secure Data implemented (#67),1
+"Feature/show events created by me #69 (#70)
+
+* First Implementation eventual connectivity
+
+* Only implemented in activitiesFragment
+
+* Creation of the dataBase of activitites and historical
+
+* Calendar Historical with eventual connectivity
+
+* Eventual Connectivity and BQ2 done
+
+* error management
+
+---------
+
+Co-authored-by: Panis26 <ca.sanchezo1@uniandes.edu.co>",1
+"Feature/custom events firebase #63 (#71)
+
+* Firebase analytics linked to track clicks on events
+
+* Update EventsAdapter.kt",1
+"forms, caching and calendar fix (#72)
+
+* Cache
+
+* Calendar picker fix",1
+"Feature/cache fb network #68 (#73)
+
+* First Implementation eventual connectivity
+
+* Only implemented in activitiesFragment
+
+* Creation of the dataBase of activitites and historical
+
+* Calendar Historical with eventual connectivity
+
+* First implementation cache fb network
+
+* Changes cache fb network (error)
+
+* Short changes eventual connectivity
+
+* Eventual connectivity in PorfileView
+
+* Delete all database",1
+Fixed session manager and qr,1
+Update HomePageFragment.kt,1
+Merge branch 'main' into develop,1
+"Develop (#92)
+
+* Number of events and screen orientation fix
+
+* Local Storage Create Event (#76)
+
+* Create edit event view (#81)
+
+* Create Edit Event View
+
+* Terminada Vista
+
+* Category fix
+
+* Fix
+
+* No internet main activity (#83)
+
+* Feature/top creators view #84 (#86)
+
+* Top Creadores page done
+
+* fixed dispatchers
+
+* Feature/stats view #75 (#87)
+
+* Stats View Created
+
+* Fix Profile view
+
+* Chart avances
+
+* TopPartners avance
+
+* Eventual Connectivity Stats View working
+
+* Eventual Connectivity StatsView Finish
+
+---------
+
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>
+
+* Feature/filter by category #78 (#88)
+
+* Fix Swipe to refresh HomePage
+
+* Filter by Category Feature Implemented
+
+By @Panis26
+
+---------
+
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>
+
+* Feature/bee on tap #80 (#89)
+
+* Bee working and updating
+
+* Update fragment_user_profile.xml
+
+* Centrar perfil
+
+* Bee view almost ready
+
+* encrypted
+
+* Fixing the implementation and refreshing info
+
+* obfuscation for release
+
+* fix components
+
+* Update gradle-wrapper.properties
+
+---------
+
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>
+
+* Update HomePageFragment.kt
+
+* Update bee_icon.png
+
+* Feature/micro optimizations #90 (#91)
+
+* Removed unused imports
+
+* remove all unused imports
+
+Co-Authored-By: Panis26 <74617788+Panis26@users.noreply.github.com>
+Co-Authored-By: lmartinezp2003 <69610928+lmartinezp2003@users.noreply.github.com>
+
+* fix list shown and add weak references
+
+Co-Authored-By: Panis26 <74617788+Panis26@users.noreply.github.com>
+Co-Authored-By: lmartinezp2003 <69610928+lmartinezp2003@users.noreply.github.com>
+
+* remove global variables
+
+Co-Authored-By: Panis26 <74617788+Panis26@users.noreply.github.com>
+Co-Authored-By: lmartinezp2003 <69610928+lmartinezp2003@users.noreply.github.com>
+
+---------
+
+Co-authored-by: Panis26 <74617788+Panis26@users.noreply.github.com>
+Co-authored-by: lmartinezp2003 <69610928+lmartinezp2003@users.noreply.github.com>
+
+---------
+
+Co-authored-by: Panis26 <ca.sanchezo1@uniandes.edu.co>
+Co-authored-by: lmartinezp2003 <69610928+lmartinezp2003@users.noreply.github.com>
+Co-authored-by: Panis26 <74617788+Panis26@users.noreply.github.com>
+Co-authored-by: Vanessa Martinez <l.martinezp@uniandes.edu.co>",1
+init commit - project creation,1
+Basic login UI and state definition for BLoC implementatiom,1
+Dockerfile added to .devcontainer,1
+devcontainer.json added to .devcontainer,1
+feature: Login UI completion.,1
+feat: initial state categories grid,1
+style: Update login button styling and remove Google logo,1
+style: updated tho login button to include google logo with white background,1
+"Merge pull request #14 from ISIS3510-202410-Team23/feature/2-ui-login-view
+
+[Feature Merge] Issue #2 - UI Login View",1
+feauture: Search bar and categories grid,1
+feature: Basic File Structure,1
+feature: Events & States for BLoC in review stars,1
+feature: text & comment view (inputfields and photo),1
+feature: back button from T&CView to C&SView,1
+Feature: First Version of UI,1
+Feature: Finalized Widgets Design,1
+fix: Fixes in the UI and finished basic function,1
+Feat: Filter Widget UI Implemented,1
+fix: dimension distribution between buttons and stars,1
+Feat: Implemented UI Filter,1
+Feat: Toggle Bookmark,1
+Feat: Implemented Navigation on Restaurant Cards,1
+Merge branch 'Dev' into feature/4-browse-view,1
+"Merge pull request #16 from ISIS3510-202410-Team23/feature/4-browse-view
+
+Browse View Implementation Pull Request",1
+Merge branch 'Dev' into feature/8-ui-create-review-view,1
+"Merge pull request #17 from ISIS3510-202410-Team23/feature/8-ui-create-review-view
+
+Review Creation Views",1
+navigation between login view & browse view done,1
+fix: got rid back arrow on browse view,1
+"Merge pull request #22 from ISIS3510-202410-Team23/feature/20-navigation-login-browse
+
+Navigation Login View -> Browse View",1
+Feat: For You View first creation,1
+feat: Added Navigation between Browse and For You,1
+"Merge pull request #24 from ISIS3510-202410-Team23/feature/10-for-you-view
+
+Feature/10 for you view",1
+Feat: Bookmarks view implemented,1
+Feat: Navigation implemented between different views,1
+"Merge pull request #25 from ISIS3510-202410-Team23/feature/19-bookmarks-view
+
+Feature/19 bookmarks view",1
+Feat: Navigation to Spot Detail complete,1
+Feat: Finished Spot Detail,1
+"Merge pull request #26 from ISIS3510-202410-Team23/feature/6-spot-detail
+
+Feature/6 spot detail",1
+feature: restaurant respective reviews,1
+fix: little size error on content space,1
+Merge branch 'Dev' into feature/18-spot-reviews-detail,1
+"Merge pull request #28 from ISIS3510-202410-Team23/feature/18-spot-reviews-detail
+
+View for Restaurant Reviews",1
+feature: navigation between views!,1
+"Merge pull request #30 from ISIS3510-202410-Team23/feature/29-navigation-browse-reviews
+
+Navigation Between Browse View and all the Reviews Views",1
+fix: ui fix & to-do comments removed,1
+"Dev (#31)
+
+* Basic login UI and state definition for BLoC implementatiom
+
+* Dockerfile added to .devcontainer
+
+* devcontainer.json added to .devcontainer
+
+* feature: Login UI completion.
+
+* feat: initial state categories grid
+
+* style: Update login button styling and remove Google logo
+
+* style: updated tho login button to include google logo with white background
+
+* feauture: Search bar and categories grid
+
+* feature: Basic File Structure
+
+* feature: Events & States for BLoC in review stars
+
+* feature: text & comment view (inputfields and photo)
+
+* feature: back button from T&CView to C&SView
+
+* Feature: First Version of UI
+
+* Feature: Finalized Widgets Design
+
+* fix: Fixes in the UI and finished basic function
+
+* Feat: Filter Widget UI Implemented
+
+* fix: dimension distribution between buttons and stars
+
+* Feat: Implemented UI Filter
+
+* Feat: Toggle Bookmark
+
+* Feat: Implemented Navigation on Restaurant Cards
+
+* navigation between login view & browse view done
+
+* fix: got rid back arrow on browse view
+
+* Feat: For You View first creation
+
+* feat: Added Navigation between Browse and For You
+
+* Feat: Bookmarks view implemented
+
+* Feat: Navigation implemented between different views
+
+* Feat: Navigation to Spot Detail complete
+
+* Feat: Finished Spot Detail
+
+* feature: restaurant respective reviews
+
+* fix: little size error on content space
+
+* feature: navigation between views!
+
+* fix: ui fix & to-do comments removed
+
+---------
+
+Co-authored-by: Nicolás Klopstock Triana <77993013+nklopstock611@users.noreply.github.com>
+Co-authored-by: nklopstock611 <n.klopstock@uniandes.edu.co>
+Co-authored-by: Alejandro1400 <a.salgadom@uniandes.edu.co>
+Co-authored-by: Alejandro  Salgado <78111596+Alejandro1400@users.noreply.github.com>",1
+feature: repository & model files for category implemented,1
+feature: firebase connection,1
+del: removes unused files from firebase_bloc,1
+fix: padding for category chips improved,1
+"Feature/3-fu-authentication-with-backend-google-auth (#33)
+
+* Integrated Firebase for the login UI. The application compiles and connects to firebase while displaying the login UI
+
+* Add Firebase authentication and update dependencies. State management and navigation pending
+
+* Login Functionality complete with the implementation of Firebase google login. Service adapter and Repository paterns are included
+
+* feature: login with google-firebase completion and UI adaptability creation",1
+Refactor: organized the additional Login code,1
+fix: corrected the navigation,1
+enhancement: portrait mode only aplied. Tested on a device (#37),1
+changed app name on device (#40),1
+UI: Logo added to the android app. The pubspec was modified but functionality was unaffected (#38),1
+fix: category dtos implementation,1
+fix: change on categories list type,1
+add: review bloc files & repoistory added,1
+Feat: Enabled API key in android for google maps,1
+fix: only 3 categories selected,1
+feature: review POST (wih some bugs hehe),1
+feature: POST with full category objects,1
+fix: review POST -> categories type changed,1
+feature: date format,1
+Merge branch 'Dev' into feature/9-backend-review-creation,1
+"Merge pull request #44 from ISIS3510-202410-Team23/feature/9-backend-review-creation
+
+GET request for Categories & POST request for Reviews",1
+Feat: Implemented Google Maps feature on phone,1
+"Feature/12-fu-context-aware-notification (#45)
+
+* feature: background process creation succesful with workmanager
+
+* refactor: eliminated and segregated code
+
+* feature: The app manages to create a background task where the user distance from uni is validated and if near enough sends notification
+
+* Completed the context aware feature where the user is notified around noon everyday to check the app for something to eat",1
+Merge branch 'Dev' into feature/43-google-maps-api,1
+"Merge pull request #50 from ISIS3510-202410-Team23/feature/43-google-maps-api
+
+Feature/43-google-maps-api",1
+fix: Cloud Firestore Dependency Added,1
+Feat: Implemented first version of DTO,1
+Fix: Changes in DTO and BLoC logic,1
+Fix: Final Fixes to DTO implementation,1
+"Merge pull request #51 from ISIS3510-202410-Team23/feature/5-fetch-spots-backend
+
+Feature/5-fetch-spots-backend",1
+"Bug Fix - Correct User on Review POST (#52)
+
+* fix: path error for browseview
+
+* fix: firebase cloudstore added to dependencies
+
+* fix: get user email
+
+* fix: correct user on each review post
+
+* fix: months",1
+"Bug-fix/9-backend-review-creation (#54)
+
+* fix: path error for browseview
+
+* fix: firebase cloudstore added to dependencies
+
+* fix: get user email
+
+* fix: correct user on each review post
+
+* fix: months
+
+* fix: file path errors fixed
+
+* fix: minAndroidVersion updated",1
+fix: minSdkVersion changed,1
+Feat: Implemented distance calculation,1
+Fix: Fix on Browse view on restaurant card and browse bar,1
+Merge branch 'Dev' into feature/53-calculate-spot-distance,1
+"Merge pull request #55 from ISIS3510-202410-Team23/feature/53-calculate-spot-distance
+
+Feature/53-calculate-spot-distance",1
+Refactoring changes to the pubspec yaml file,1
+Merge branch 'Dev' of https://github.com/ISIS3510-202410-Team23/FlutterApp into Dev,1
+"Bug-fix/9-backend-review-creation (#56)
+
+* fix: path error for browseview
+
+* fix: firebase cloudstore added to dependencies
+
+* fix: get user email
+
+* fix: correct user on each review post
+
+* fix: months
+
+* fix: file path errors fixed
+
+* fix: minAndroidVersion updated
+
+* feature: link between review and restaurant
+
+* feauture: image upload and saved in firestore
+
+* feature: correct firestore path to image in review post
+
+* fix: bug fixed where it would post two reviews",1
+feature: camera and gallery permission pop up,1
+fix: bug optional imageURL field,1
+"Merge pull request #59 from ISIS3510-202410-Team23/feauture/41-camera-photos-permission
+
+Feauture/41-camera-photos-permission",1
+Setup completed. The tests for scheduled notifications,1
+Implemented the reminder notification in case a large amount of time has passed before their last review,1
+Merge branch 'Dev' into feature/11-days-since-last-review-notification,1
+"Merge pull request #61 from ISIS3510-202410-Team23/feature/11-days-since-last-review-notification
+
+Feature/11-days-since-last-review-notification",1
+Dependencies were updated,1
+feature: http request & for you page ui! (#62),1
+feature: respective reviews for each (#63),1
+"Feature/64-functional-categories-search-bar (#65)
+
+* feature: functional categories search bar
+
+* fix: little params fix on CategoriesAndStarsView const",1
+"bug-fix: Android Back-button desabled when in BrowseView, ForYouView or BookMarksView (#67)",1
+fix: Fixed Images URI display,1
+"Merge pull request #69 from ISIS3510-202410-Team23/bug-fix/67-images-URI-fix
+
+Bug-fix/67-images-URI-fix",1
+bug-fix: abb disabled when in authentication process,1
+"Merge pull request #71 from ISIS3510-202410-Team23/bug-fix/70-disable-abb-login-view
+
+Bug-fix/70-disable-abb-login-view",1
+fix: removed TO-DO comments,1
+"Feature/73-review-post-restrictions (#74)
+
+* feature: at least one category has to be selected
+
+* feature: all stats must have a rating",1
+"Bug-fix/72-review-reminder-overwrites-contextAware-Notif (#76)
+
+* Identified the problem occurrig with the notifications
+
+* fix: two notifications working
+
+* fix: Test tasks commented and adjusted for production functionality
+
+---------
+
+Co-authored-by: nklopstock611 <n.klopstock@uniandes.edu.co>",1
+Merge branch 'main' into Dev,1
+"Merge pull request #77 from ISIS3510-202410-Team23/Dev
+
+Dev",1
+init commit - project creation,1
+Basic login UI and state definition for BLoC implementatiom,1
+Dockerfile added to .devcontainer,1
+devcontainer.json added to .devcontainer,1
+feature: Login UI completion.,1
+feat: initial state categories grid,1
+style: Update login button styling and remove Google logo,1
+style: updated tho login button to include google logo with white background,1
+"Merge pull request #14 from ISIS3510-202410-Team23/feature/2-ui-login-view
+
+[Feature Merge] Issue #2 - UI Login View",1
+feauture: Search bar and categories grid,1
+feature: Basic File Structure,1
+feature: Events & States for BLoC in review stars,1
+feature: text & comment view (inputfields and photo),1
+feature: back button from T&CView to C&SView,1
+Feature: First Version of UI,1
+Feature: Finalized Widgets Design,1
+fix: Fixes in the UI and finished basic function,1
+Feat: Filter Widget UI Implemented,1
+fix: dimension distribution between buttons and stars,1
+Feat: Implemented UI Filter,1
+Feat: Toggle Bookmark,1
+Feat: Implemented Navigation on Restaurant Cards,1
+Merge branch 'Dev' into feature/4-browse-view,1
+"Merge pull request #16 from ISIS3510-202410-Team23/feature/4-browse-view
+
+Browse View Implementation Pull Request",1
+Merge branch 'Dev' into feature/8-ui-create-review-view,1
+"Merge pull request #17 from ISIS3510-202410-Team23/feature/8-ui-create-review-view
+
+Review Creation Views",1
+navigation between login view & browse view done,1
+fix: got rid back arrow on browse view,1
+"Merge pull request #22 from ISIS3510-202410-Team23/feature/20-navigation-login-browse
+
+Navigation Login View -> Browse View",1
+Feat: For You View first creation,1
+feat: Added Navigation between Browse and For You,1
+"Merge pull request #24 from ISIS3510-202410-Team23/feature/10-for-you-view
+
+Feature/10 for you view",1
+Feat: Bookmarks view implemented,1
+Feat: Navigation implemented between different views,1
+"Merge pull request #25 from ISIS3510-202410-Team23/feature/19-bookmarks-view
+
+Feature/19 bookmarks view",1
+Feat: Navigation to Spot Detail complete,1
+Feat: Finished Spot Detail,1
+"Merge pull request #26 from ISIS3510-202410-Team23/feature/6-spot-detail
+
+Feature/6 spot detail",1
+feature: restaurant respective reviews,1
+fix: little size error on content space,1
+Merge branch 'Dev' into feature/18-spot-reviews-detail,1
+"Merge pull request #28 from ISIS3510-202410-Team23/feature/18-spot-reviews-detail
+
+View for Restaurant Reviews",1
+feature: navigation between views!,1
+"Merge pull request #30 from ISIS3510-202410-Team23/feature/29-navigation-browse-reviews
+
+Navigation Between Browse View and all the Reviews Views",1
+fix: ui fix & to-do comments removed,1
+"Dev (#31)
+
+* Basic login UI and state definition for BLoC implementatiom
+
+* Dockerfile added to .devcontainer
+
+* devcontainer.json added to .devcontainer
+
+* feature: Login UI completion.
+
+* feat: initial state categories grid
+
+* style: Update login button styling and remove Google logo
+
+* style: updated tho login button to include google logo with white background
+
+* feauture: Search bar and categories grid
+
+* feature: Basic File Structure
+
+* feature: Events & States for BLoC in review stars
+
+* feature: text & comment view (inputfields and photo)
+
+* feature: back button from T&CView to C&SView
+
+* Feature: First Version of UI
+
+* Feature: Finalized Widgets Design
+
+* fix: Fixes in the UI and finished basic function
+
+* Feat: Filter Widget UI Implemented
+
+* fix: dimension distribution between buttons and stars
+
+* Feat: Implemented UI Filter
+
+* Feat: Toggle Bookmark
+
+* Feat: Implemented Navigation on Restaurant Cards
+
+* navigation between login view & browse view done
+
+* fix: got rid back arrow on browse view
+
+* Feat: For You View first creation
+
+* feat: Added Navigation between Browse and For You
+
+* Feat: Bookmarks view implemented
+
+* Feat: Navigation implemented between different views
+
+* Feat: Navigation to Spot Detail complete
+
+* Feat: Finished Spot Detail
+
+* feature: restaurant respective reviews
+
+* fix: little size error on content space
+
+* feature: navigation between views!
+
+* fix: ui fix & to-do comments removed
+
+---------
+
+Co-authored-by: Nicolás Klopstock Triana <77993013+nklopstock611@users.noreply.github.com>
+Co-authored-by: nklopstock611 <n.klopstock@uniandes.edu.co>
+Co-authored-by: Alejandro1400 <a.salgadom@uniandes.edu.co>
+Co-authored-by: Alejandro  Salgado <78111596+Alejandro1400@users.noreply.github.com>",1
+feature: repository & model files for category implemented,1
+feature: firebase connection,1
+del: removes unused files from firebase_bloc,1
+fix: padding for category chips improved,1
+"Feature/3-fu-authentication-with-backend-google-auth (#33)
+
+* Integrated Firebase for the login UI. The application compiles and connects to firebase while displaying the login UI
+
+* Add Firebase authentication and update dependencies. State management and navigation pending
+
+* Login Functionality complete with the implementation of Firebase google login. Service adapter and Repository paterns are included
+
+* feature: login with google-firebase completion and UI adaptability creation",1
+Refactor: organized the additional Login code,1
+fix: corrected the navigation,1
+enhancement: portrait mode only aplied. Tested on a device (#37),1
+changed app name on device (#40),1
+UI: Logo added to the android app. The pubspec was modified but functionality was unaffected (#38),1
+fix: category dtos implementation,1
+fix: change on categories list type,1
+add: review bloc files & repoistory added,1
+Feat: Enabled API key in android for google maps,1
+fix: only 3 categories selected,1
+feature: review POST (wih some bugs hehe),1
+feature: POST with full category objects,1
+fix: review POST -> categories type changed,1
+feature: date format,1
+Merge branch 'Dev' into feature/9-backend-review-creation,1
+"Merge pull request #44 from ISIS3510-202410-Team23/feature/9-backend-review-creation
+
+GET request for Categories & POST request for Reviews",1
+Feat: Implemented Google Maps feature on phone,1
+"Feature/12-fu-context-aware-notification (#45)
+
+* feature: background process creation succesful with workmanager
+
+* refactor: eliminated and segregated code
+
+* feature: The app manages to create a background task where the user distance from uni is validated and if near enough sends notification
+
+* Completed the context aware feature where the user is notified around noon everyday to check the app for something to eat",1
+Merge branch 'Dev' into feature/43-google-maps-api,1
+"Merge pull request #50 from ISIS3510-202410-Team23/feature/43-google-maps-api
+
+Feature/43-google-maps-api",1
+fix: Cloud Firestore Dependency Added,1
+Feat: Implemented first version of DTO,1
+Fix: Changes in DTO and BLoC logic,1
+Fix: Final Fixes to DTO implementation,1
+"Merge pull request #51 from ISIS3510-202410-Team23/feature/5-fetch-spots-backend
+
+Feature/5-fetch-spots-backend",1
+"Bug Fix - Correct User on Review POST (#52)
+
+* fix: path error for browseview
+
+* fix: firebase cloudstore added to dependencies
+
+* fix: get user email
+
+* fix: correct user on each review post
+
+* fix: months",1
+"Bug-fix/9-backend-review-creation (#54)
+
+* fix: path error for browseview
+
+* fix: firebase cloudstore added to dependencies
+
+* fix: get user email
+
+* fix: correct user on each review post
+
+* fix: months
+
+* fix: file path errors fixed
+
+* fix: minAndroidVersion updated",1
+fix: minSdkVersion changed,1
+Feat: Implemented distance calculation,1
+Fix: Fix on Browse view on restaurant card and browse bar,1
+Merge branch 'Dev' into feature/53-calculate-spot-distance,1
+"Merge pull request #55 from ISIS3510-202410-Team23/feature/53-calculate-spot-distance
+
+Feature/53-calculate-spot-distance",1
+Refactoring changes to the pubspec yaml file,1
+Merge branch 'Dev' of https://github.com/ISIS3510-202410-Team23/FlutterApp into Dev,1
+"Bug-fix/9-backend-review-creation (#56)
+
+* fix: path error for browseview
+
+* fix: firebase cloudstore added to dependencies
+
+* fix: get user email
+
+* fix: correct user on each review post
+
+* fix: months
+
+* fix: file path errors fixed
+
+* fix: minAndroidVersion updated
+
+* feature: link between review and restaurant
+
+* feauture: image upload and saved in firestore
+
+* feature: correct firestore path to image in review post
+
+* fix: bug fixed where it would post two reviews",1
+feature: camera and gallery permission pop up,1
+fix: bug optional imageURL field,1
+"Merge pull request #59 from ISIS3510-202410-Team23/feauture/41-camera-photos-permission
+
+Feauture/41-camera-photos-permission",1
+Setup completed. The tests for scheduled notifications,1
+Implemented the reminder notification in case a large amount of time has passed before their last review,1
+Merge branch 'Dev' into feature/11-days-since-last-review-notification,1
+"Merge pull request #61 from ISIS3510-202410-Team23/feature/11-days-since-last-review-notification
+
+Feature/11-days-since-last-review-notification",1
+Dependencies were updated,1
+feature: http request & for you page ui! (#62),1
+feature: respective reviews for each (#63),1
+"Feature/64-functional-categories-search-bar (#65)
+
+* feature: functional categories search bar
+
+* fix: little params fix on CategoriesAndStarsView const",1
+"bug-fix: Android Back-button desabled when in BrowseView, ForYouView or BookMarksView (#67)",1
+fix: Fixed Images URI display,1
+"Merge pull request #69 from ISIS3510-202410-Team23/bug-fix/67-images-URI-fix
+
+Bug-fix/67-images-URI-fix",1
+bug-fix: abb disabled when in authentication process,1
+"Merge pull request #71 from ISIS3510-202410-Team23/bug-fix/70-disable-abb-login-view
+
+Bug-fix/70-disable-abb-login-view",1
+fix: removed TO-DO comments,1
+"Feature/73-review-post-restrictions (#74)
+
+* feature: at least one category has to be selected
+
+* feature: all stats must have a rating",1
+"Bug-fix/72-review-reminder-overwrites-contextAware-Notif (#76)
+
+* Identified the problem occurrig with the notifications
+
+* fix: two notifications working
+
+* fix: Test tasks commented and adjusted for production functionality
+
+---------
+
+Co-authored-by: nklopstock611 <n.klopstock@uniandes.edu.co>",1
+Merge branch 'main' into Dev,1
+"Merge pull request #77 from ISIS3510-202410-Team23/Dev
+
+Dev",1
+"Merge branch 'main' into develop
+
+Signed-off-by: Maria Castro Iregui <m.castroi@uniandes.edu.co>
+
+# Conflicts:
+#	FoodBookApp.xcodeproj/project.xcworkspace/xcuserdata/juan.xcuserdatad/UserInterfaceState.xcuserstate
+#	FoodBookApp.xcodeproj/project.xcworkspace/xcuserdata/laura.xcuserdatad/UserInterfaceState.xcuserstate",1
+Initial commit,0
+Se vienen cositas,0
+Update modeloODS.ipynb,0
+Se vienen cositas,0
+Se vienen más cosas - falta lematizar,0
+ups,0
+"lematizando pero ojitoo, no tan bien",0
+se me habia olvidado guardar,0
+la limmetizacion funciona? - pero me voy a comer,0
+La verdad esto no tiene sentido - me voy a mimir,0
+no cambié nada pero puse bibliografia cool,0
+"y si el dia se pone feooo, tu me lo haces",0
+Update modeloODS.ipynb,0
+BestModel,0
+Update modeloODS.ipynb,0
+Un modelo mas,0
+Mirando que funcionara el coso pa exportar,0
+Update modeloODS.ipynb,0
+Cositas,0
+"melo,caramelo",0
+cositas para tener la API,0
+Cambio pequeño pasando de compu,0
+No tan sencillo como esperaba pero estamos bien,0
+Melo Caramelo,0
+Cositas,0
+Funciones para permitir leer archivos,0
+un mini comentario,0
+Comentario importante,0
+Cositas,0
+FInal,0
